@@ -1,0 +1,4 @@
+name: Madison Example One
+description: Madision Example First One
+type: module
+core_version_requirement: ^9 || ^10
